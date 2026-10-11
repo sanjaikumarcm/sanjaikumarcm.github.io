@@ -1,8 +1,0 @@
-{
-  "name": "My Sephora Summer",
-  "short_name": "Sephora Summer",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#081320",
-  "theme_color": "#081320"
-}
